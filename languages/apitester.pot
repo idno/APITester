@@ -1,5 +1,29 @@
-#: ./Pages/Admin.php:71
+#: ./templates/default/apitester/admin/menu.tpl.php:1
 msgid "API Tester"
+msgstr ""
+
+#: ./templates/default/apitester/nocurl.tpl.php:11
+msgid "The API Tester requires the"
+msgstr ""
+
+#: ./templates/default/apitester/nocurl.tpl.php:11
+msgid "curl"
+msgstr ""
+
+#: ./templates/default/apitester/nocurl.tpl.php:11
+msgid "extension"
+msgstr ""
+
+#: ./templates/default/apitester/nocurl.tpl.php:12
+msgid "See the"
+msgstr ""
+
+#: ./templates/default/apitester/nocurl.tpl.php:12
+msgid "dependencies page"
+msgstr ""
+
+#: ./templates/default/apitester/nocurl.tpl.php:13
+msgid "for more information about system dependencies."
 msgstr ""
 
 #: ./templates/default/apitester/admin.tpl.php:11
@@ -76,29 +100,5 @@ msgstr ""
 
 #: ./templates/default/apitester/admin.tpl.php:145
 msgid "API calls are a GET or POST request (for retrieval and publishing / deleting calls respectively) with the HTTP header X-KNOWN-USERNAME set to the user's username, and X-KNOWN-SIGNATURE to be an HMAC signature, computed with sha256, using the user's API key."
-msgstr ""
-
-#: ./templates/default/apitester/nocurl.tpl.php:11
-msgid "The API Tester requires the"
-msgstr ""
-
-#: ./templates/default/apitester/nocurl.tpl.php:11
-msgid "curl"
-msgstr ""
-
-#: ./templates/default/apitester/nocurl.tpl.php:11
-msgid "extension"
-msgstr ""
-
-#: ./templates/default/apitester/nocurl.tpl.php:12
-msgid "See the"
-msgstr ""
-
-#: ./templates/default/apitester/nocurl.tpl.php:12
-msgid "dependencies page"
-msgstr ""
-
-#: ./templates/default/apitester/nocurl.tpl.php:13
-msgid "for more information about system dependencies."
 msgstr ""
 
